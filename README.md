@@ -5,7 +5,9 @@ I am a Computer Science student exploring the intersection of scalable web syste
 
 My goal is to master the full stack—from how a kernel handles a container to how a neural network processes language.
 
-Portfolio live at : https://tarunpathak001.github.io/Personal_portfolio/
+## working over a new project stay tuned!!
+
+
 ## 📬 Get in Touch
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
